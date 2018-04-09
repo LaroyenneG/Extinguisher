@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Hot Alarm
+Exec=/usr/local/bin/hotalarm
+Terminal=false
+Type=Application
+Categories=GTK;System;HotAlarm;
+StartupNotify=false
